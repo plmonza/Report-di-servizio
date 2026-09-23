@@ -1,6 +1,3 @@
-Copia il contenuto seguente in un nuovo file e salvalo con il nome **`README.md`**, usando la codifica **UTF-8**:
-
-````markdown
 # PL Monza Reports
 
 Web app in formato single-page per la compilazione dei **report di servizio della Polizia Locale e Protezione Civile di Monza**.
